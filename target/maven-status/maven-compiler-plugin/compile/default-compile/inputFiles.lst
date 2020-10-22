@@ -1,0 +1,9 @@
+C:\mileage\managerMessage\src\main\java\mileage\ManagerMessage.java
+C:\mileage\managerMessage\src\main\java\mileage\ManagerMessageController.java
+C:\mileage\managerMessage\src\main\java\mileage\config\kafka\KafkaProcessor.java
+C:\mileage\managerMessage\src\main\java\mileage\PolicyHandler.java
+C:\mileage\managerMessage\src\main\java\mileage\ManagerMsgSent.java
+C:\mileage\managerMessage\src\main\java\mileage\ManagerMessageRepository.java
+C:\mileage\managerMessage\src\main\java\mileage\DormantMemberChanged.java
+C:\mileage\managerMessage\src\main\java\mileage\AbstractEvent.java
+C:\mileage\managerMessage\src\main\java\mileage\ManagerMessageApplication.java
